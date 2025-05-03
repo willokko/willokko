@@ -13,5 +13,5 @@
 🚀 Em constante aprendizado e em busca de projetos colaborativos.  
 
 🔗 **Vamos nos conectar?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](SeuPerfilLinkedIn)  
-[![Gmail](https://img.shields.io/badge/Email-✉️-red)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-wilson-lins-pereira-39b355351/)  
+[![Gmail](https://img.shields.io/badge/Email-✉️-red)](jwilsonpereira720@gmail.com)
