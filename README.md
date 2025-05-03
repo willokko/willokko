@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.tenor.com/b1dXnLHoTqoAAAAj/music-kirby-kirby.gif" alt="Kirby dançando" />
+</p>
 
-<!--
-**willokko/willokko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou Will 👋  
+**Estudante de ADS** no IFPB – Campus Cajazeiras  
 
-Here are some ideas to get you started:
+🛠 **Linguagens & Ferramentas:**  
+- Front‑end: HTML, CSS, JavaScript  
+- Programação: C, Python, Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Apaixonado por criar interfaces interativas e resolver desafios de lógica.  
+🚀 Em constante aprendizado e em busca de projetos colaborativos.  
+
+🔗 **Vamos nos conectar?**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](SeuPerfilLinkedIn)  
+[![Gmail](https://img.shields.io/badge/Email-✉️-red)](mailto:seuemail@exemplo.com)
